@@ -1,0 +1,14 @@
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\bin\Debug\dragdrop_wpf.exe.config
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\bin\Debug\dragdrop_wpf.exe
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\bin\Debug\dragdrop_wpf.pdb
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\MainWindow.g.cs
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\App.g.cs
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf_MarkupCompile.cache
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf_MarkupCompile.lref
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\MainWindow.baml
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf.g.resources
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf.Properties.Resources.resources
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf.csproj.GenerateResource.Cache
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf.exe
+c:\users\настя\documents\visual studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\dragdrop_wpf\obj\Debug\dragdrop_wpf.csprojResolveAssemblyReference.cache
